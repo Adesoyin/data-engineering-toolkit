@@ -1,4 +1,4 @@
-# data-engineering-toolkit
+# Data-Engineering-Toolkit Execise
 
 **Purpose of the project**
 
@@ -35,7 +35,7 @@ New branches (Develop and feature/branch-name) were created and on my github, I 
 
 ![alt text](Images/image-1.png)
 
-The first wriiten documentation was added and pushed to Develop branch, it created a pull request on the remote repo, and changes was checked befored being merged to the main branch.
+The first wriiten documentation was added and pushed to Develop branch, it created a pull request on the remote repo, and changes was checked before being merged to the main branch.
 
 ![alt text](Images/image-2.png)
 
@@ -152,13 +152,25 @@ The Develop branch was then priodically merged to the main branch.
 
 **Conclusion**
 
-In conclusion, this exercise had deepen my knowledge on the git and github integration with git codes uses. 
-It has helped me to know how to create branch, push changes made in the local repo to to guthub, cretae pull request to feature branches and then merge the branches to the main branch. It has also helped me to understand the benefits of not merging directlt to the main branch to avoid conflicts and the benefit of review with other developers.
+This exercise has deepened my knowledge of Git and GitHub integration, as well as the practical use of Git commands. I learned how to:
+
+-- Create and manage branches.
+
+-- Push changes from the local repository to GitHub.
+
+-- Create pull requests for feature branches.
+
+-- Merge feature branches into the main branch.
+
+It also reinforced the importance of avoiding direct merges into the main branch to prevent conflicts, and highlighted the benefits of code reviews and collaboration with other developers.
 
 This is truly superb!
 
 
-**Shout Out**
-I wouldn't believe I would do this. All thanks to Tutor Aviator for his teachings and patience.
+
+
+**Shout Out:** 
+
+I wouldn't believe I would do this. All thanks to Tutor Aviator for his teachings and patience.And to the DEC-Launchpad managers. I appreciate you.
     
 
