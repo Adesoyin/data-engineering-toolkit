@@ -1,4 +1,5 @@
 # data-engineering-toolkit
+<<<<<<< HEAD
 *Purpose of the project*
 This project aim to understand and practice the fundamental of repository creation, branch strategy, development of script on feature branch to run ETL processes, request pull and merge request on remote repository. 
 This will further heighten my understanding and logic flow of the whole processes of git and github. 
@@ -30,3 +31,5 @@ To create a new branch called "Develop" -which serves as a branch for all integr
     git branch Develop
     git checkout Develop   -m "moved to the new branch craeted"
 Also created a Feature branch for new features/script addition.
+=======
+>>>>>>> 1f11c9c154ed3d8ce48132856c03758b2919c25f
