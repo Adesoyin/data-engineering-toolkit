@@ -42,14 +42,29 @@ The new feature branch where the data transformation is being carried out was al
 
 The file was added to staging, commited and pushed to the remote repo feature/datatransform branch as well.
 
+    git branch feature/datatransform
+
+    git checkout feature/datatransform
+
+    touch datatransform.py
+
+    git add datatransform.py
+
+![alt text](image-4.png)
+
+**Pull request and merging to Develop branch**
+
+![alt text](image-5.png)
 
 **Data Loading Branch (feature/dataload branch)**
 
-TA new feature was created to host the .py file that loads the transformed data into its destination. The added file was added to staging, commited and pushed to the remote repo feature/dataloadbranch.
+A new feature was created to host the .py file that loads the transformed data into its destination. The added file was added to staging, commited and pushed to the remote repo feature/dataloadbranch.
+
+
 
  **Pull Request and Code Review Process**
 
-For each push request from the feature branch to the remote repo, a pull request was created and reviews done in the remote repo, a description and code images attached before being merged into the main branch. 
+For each push request from the feature branch to the remote repo, a pull request was created and reviews done in the remote repo, a description and code images attached before being merged into the Develop branch.
 
 
 **git Code written**
@@ -78,11 +93,11 @@ To create a new branch called "Develop" -which serves as a branch for all integr
 
 I created a Feature branch for new features/script addition. The first branch created "feature/datacleaning"
 
-git branch feature/datacleaning
+    git branch feature/datacleaning
 
-git checkout feature/datacleaning
+    git checkout feature/datacleaning
 
-touch datacleaning.py
+    touch datacleaning.py
 
-git add datacleaning.py
+    git add datacleaning.py
 
