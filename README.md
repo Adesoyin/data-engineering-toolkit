@@ -4,13 +4,13 @@
 
 This project is designed to strengthen my understanding and practical skills in using Git and GitHub. It covers:
 
-    Repository creation and setup.
+1. Repository creation and setup.
 
-    Branching strategy for organized development.
+2. Branching strategy for organized development.
 
-    Feature branch development for building ETL process scripts.
+3. Feature branch development for building ETL process scripts.
 
-    Pull requests and merge requests to integrate changes into the main branch.
+4. Pull requests and merge requests to integrate changes into the main branch.
 
 Through this project, I aim to gain a deeper grasp of the workflow, logic, and best practices involved in Git and GitHub collaboration.
 
