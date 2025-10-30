@@ -1,6 +1,6 @@
-order_id,customer_name,region,order_date,amount,status,extra_col,
-1001,John Doe,North,1/12/2025,250,Completed,xyz,
-1002,Jane Smith,South,12/2/2025,400,Pending,abc,
-1003,Mike Lee,East,3/5/2025,150,Failed,def,
-1004,Susan Park,West,3/15/2025,600,Completed,ghi,
-1005,Tom Brown,North,4/1/2025,200,Completed,jkl,
+order_id,customer_name,region,order_date,amount,status,extra_col
+1001,John Doe,North,1/12/2025,250,Completed,xyz
+1002,Jane Smith,South,12/2/2025,400,Pending,abc
+1003,Mike Lee,East,3/5/2025,150,Failed,def
+1004,Susan Park,West,3/15/2025,600,Completed,ghi
+1005,Tom Brown,North,4/1/2025,200,Completed,jkl
